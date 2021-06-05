@@ -1,0 +1,9 @@
+.game{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.game-board{
+	margin-top: 7%;
+	display: inline-block;
+}
